@@ -92,8 +92,8 @@ stderr_logfile=/var/log/supervisor/ipfs-stderr.log
 
 Reload supervisord
 
-* `sudu supervisorctl reload`
-* `sudu supervisorctl status`
+* `sudo supervisorctl reload`
+* `sudo supervisorctl status`
 
 Monitor IPFS with `tail`
 
